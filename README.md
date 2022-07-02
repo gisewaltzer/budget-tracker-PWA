@@ -12,7 +12,7 @@ Updating an existing budget tracker application to allow for offline access and 
 ## General Info
 The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total will be updated when they're brought back online. 
 <br>
-This application is installable as well! download by clicking on the download icon in the address bar
+This application is installable. The user can download by clicking on the download icon in the address bar
 <br>
 
 [Link to deployed application](https://)
@@ -21,21 +21,20 @@ This application is installable as well! download by clicking on the download ic
 Image of downloaded application.
 <img src=./public/images/.png>
 
-## Technologiesgirt
+## Technology
 Project is created with 
-* [Javascript](https://www.javascript.com/)
 * [Express](https://expressjs.com/)
 * [Comression](https://www.npmjs.com/package/compression)
 * [Morgan](https://www.npmjs.com/package/morgan)
 * [Mongoose](https://mongoosejs.com/)
-* [MongoDB](https://www.mongodb.com/)
+
 
 
 ## Installation
 To get started clone this repository using 
 <br>
 ```terminal
-git clone git@github.com:BennAsabir/pro-budget-tracker.git
+git clone git@github.com:gisewaltzer/budget-tracker-PWA.git
 ```
 Install dependencies 
 ```terminal
@@ -49,7 +48,7 @@ Once all that is done, navigate to - http://localhost:3001 to begin!
 
 
 ## Usage
-The user will be able to add expenses and deposits to their budget with or without a connection.
+The user will be able to add expenses and deposits with or without a connection.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
