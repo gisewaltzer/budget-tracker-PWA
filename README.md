@@ -15,11 +15,11 @@ The user will be able to add expenses and deposits to their budget with or witho
 This application is installable. The user can download by clicking on the download icon in the address bar
 <br>
 
-[Link to deployed application](https://)
+[Link to deployed application](https://royal-hockey-01236.herokuapp.com/)
 
 <br>
 Image of downloaded application.
-<img src=./public/images/.png>
+<img src=./public/images/Screenshot-budget-tracker.png>
 
 ## Technology
 Project is created with 
